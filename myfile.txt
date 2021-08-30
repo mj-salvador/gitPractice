@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Windows
+ El n£mero de serie del volumen es: 6AB7-BE16
+
+ Directorio de C:\proyectos\gitPractice
+
+29/08/2021  09:08 p. m.    <DIR>          .
+29/08/2021  09:08 p. m.    <DIR>          ..
+29/08/2021  09:08 p. m.                 0 myfile.txt
+               1 archivos              0 bytes
+               2 dirs  60,252,680,192 bytes libres
